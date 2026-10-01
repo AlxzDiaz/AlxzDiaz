@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="252" viewBox="0 0 620 252" role="img" aria-label="Outside the code: frames, films that stay after the credits; pages, Dostoevsky, Camus, Kafka; sound, alternative, urban, late-night; play, worlds worth getting lost in; thoughts, poems, letters and 3am drafts">
+  <title>~/outside-code</title>
+  <style>
+    text { font-family: 'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 14px; }
+    .root { fill: #cbbfbf; }
+    .branch { fill: #76000d; }
+    .dir { fill: #e8001c; }
+    .desc { fill: #cbbfbf; fill-opacity: 0.8; }
+    .dim { fill: #777777; }
+  </style>
+
+  <rect x="1" y="1" width="618" height="250" rx="10" fill="#0d0d0d" stroke="#3d0000" stroke-width="1.2"/>
+
+  <g transform="translate(40 0)">
+    <text y="50"><tspan class="dim">$</tspan><tspan class="root" dx="9">tree ~/outside-code</tspan></text>
+
+    <text y="92"><tspan class="branch">├──</tspan><tspan x="40" class="dir">frames/</tspan><tspan x="160" class="desc">films that stay after the credits</tspan></text>
+    <text y="122"><tspan class="branch">├──</tspan><tspan x="40" class="dir">pages/</tspan><tspan x="160" class="desc">dostoevsky · camus · kafka</tspan></text>
+    <text y="152"><tspan class="branch">├──</tspan><tspan x="40" class="dir">sound/</tspan><tspan x="160" class="desc">alternative · urban · late-night</tspan></text>
+    <text y="182"><tspan class="branch">├──</tspan><tspan x="40" class="dir">play/</tspan><tspan x="160" class="desc">worlds worth getting lost in</tspan></text>
+    <text y="212"><tspan class="branch">└──</tspan><tspan x="40" class="dir">thoughts/</tspan><tspan x="160" class="desc">poems · letters · 3am drafts</tspan></text>
+  </g>
+</svg>
