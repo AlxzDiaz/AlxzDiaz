@@ -82,8 +82,8 @@
 <br><sub><i>the rest lives on Letterboxd — I'm bad at remembering</i></sub>
 
 <p align="left">
-  <a href="https://open.spotify.com/user/hh9tt822ucbr2fo8od04z8pfj"><img src="https://img.shields.io/badge/Spotify-0d0d0d?style=for-the-badge&logo=spotify&logoColor=e8001c" alt="Spotify"/></a>
-  <a href="https://letterboxd.com/alxz_d/"><img src="https://img.shields.io/badge/Letterboxd-0d0d0d?style=for-the-badge&logo=letterboxd&logoColor=e8001c" alt="Letterboxd"/></a>
+  <a href="https://open.spotify.com/user/hh9tt822ucbr2fo8od04z8pfj"><img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=0d0d0d&logoColor=e8001c&labelColor=&style=for-the-badge" height="35" alt="spotify logo"/></a>
+  <a href="https://letterboxd.com/alxz_d/"><img src="https://img.shields.io/static/v1?message=Letterboxd&logo=letterboxd&label=&color=0d0d0d&logoColor=e8001c&labelColor=&style=for-the-badge" height="35" alt="letterboxd logo"/></a>
 </p>
 
 </details>
@@ -94,9 +94,9 @@
 <h3 align="center">☾ Contact</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/alxz.__.dz/"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=e8001c" alt="Instagram"/></a>
-  <a href="https://www.tiktok.com/@alxz.__.dz"><img src="https://img.shields.io/badge/TikTok-0d0d0d?style=for-the-badge&logo=tiktok&logoColor=e8001c" alt="TikTok"/></a>
-  <a href="mailto:alexzandrodiazcondori@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=e8001c" alt="Email"/></a>
+  <a href="https://www.instagram.com/alxz.__.dz/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0d0d0d&logoColor=e8001c&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
+  <a href="https://www.tiktok.com/@alxz.__.dz"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=0d0d0d&logoColor=e8001c&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"/></a>
+  <a href="mailto:alexzandrodiazcondori@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0d0d0d&logoColor=e8001c&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
 </p>
 
 <p align="center"><sub>Don't hesitate to message me, even if I take a while to answer.</sub></p>
