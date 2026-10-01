@@ -12,26 +12,39 @@
 <p align="center">─────────── ✦ ───────────</p>
 
 <!-- ═══════════════════════  ABOUT ME  ═══════════════════════ -->
-<h3 align="center">☾ About me</h3>
+<img align="right" height="170" src="https://github.com/AlxzDiaz.png?size=340" alt="avatar"/>
 
-- † Studying **Systems & Computer Engineering** at **UNAMAD** (Peru).
+<h3 align="left">☾ Hi, I'm Alxz — a systems engineering student from Peru</h3>
+
+- † Studying **Systems & Computer Engineering** at **UNAMAD**.
 - † Currently building web projects with **React**, **Next.js** and **Node.js**.
 - † Learning **TypeScript**, clean architecture and better database design.
 - † Open to collaborating on **web apps, student projects and open source**.
 - † Fun fact: there's always music playing while I code.
 - † I speak Spanish 🇵🇪 and read/write English.
 
+<br clear="right"/>
+
 <p align="center">─────────── ✦ ───────────</p>
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
-<h3 align="center">☾ Tech stack</h3>
+<h3 align="center">☾ Languages & tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,git,github,vscode,mysql&theme=dark&perline=11" alt="tech stack"/>
+  <sub><b>FRONTEND</b></sub><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="frontend"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-0d0d0d?style=for-the-badge&logo=microsoftsqlserver&logoColor=e8001c" alt="SQL Server"/>
+  <sub><b>BACKEND & DATABASES</b></sub><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="backend"/>
+  <img width="6"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
+</p>
+
+<p align="center">
+  <sub><b>TOOLS</b></sub><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools"/>
 </p>
 
 <p align="center">─────────── ✦ ───────────</p>
